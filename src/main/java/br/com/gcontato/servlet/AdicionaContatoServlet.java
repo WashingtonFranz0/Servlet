@@ -1,4 +1,4 @@
-package exemploServlet;
+package br.com.gcontato.servlet;
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;
